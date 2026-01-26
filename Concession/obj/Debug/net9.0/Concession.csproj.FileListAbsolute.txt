@@ -1,0 +1,14 @@
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\Concession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\Concession.AssemblyInfoInputs.cache
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\Concession.AssemblyInfo.cs
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\Concession.csproj.CoreCompileInputs.cache
+C:\Users\brani\Documents\ESI\Pattern\Concession\bin\Debug\net9.0\Concession.exe
+C:\Users\brani\Documents\ESI\Pattern\Concession\bin\Debug\net9.0\Concession.deps.json
+C:\Users\brani\Documents\ESI\Pattern\Concession\bin\Debug\net9.0\Concession.runtimeconfig.json
+C:\Users\brani\Documents\ESI\Pattern\Concession\bin\Debug\net9.0\Concession.dll
+C:\Users\brani\Documents\ESI\Pattern\Concession\bin\Debug\net9.0\Concession.pdb
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\Concession.dll
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\refint\Concession.dll
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\Concession.pdb
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\Concession.genruntimeconfig.cache
+C:\Users\brani\Documents\ESI\Pattern\Concession\obj\Debug\net9.0\ref\Concession.dll
