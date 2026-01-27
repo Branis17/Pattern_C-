@@ -1,0 +1,15 @@
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\Banque.AssemblyInfoInputs.cache
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\Banque.AssemblyInfo.cs
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\Banque.csproj.CoreCompileInputs.cache
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\Banque.sourcelink.json
+C:\Users\brani\Documents\ESI\Pattern\Banque\bin\Debug\net9.0\Banque.exe
+C:\Users\brani\Documents\ESI\Pattern\Banque\bin\Debug\net9.0\Banque.deps.json
+C:\Users\brani\Documents\ESI\Pattern\Banque\bin\Debug\net9.0\Banque.runtimeconfig.json
+C:\Users\brani\Documents\ESI\Pattern\Banque\bin\Debug\net9.0\Banque.dll
+C:\Users\brani\Documents\ESI\Pattern\Banque\bin\Debug\net9.0\Banque.pdb
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\Banque.dll
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\refint\Banque.dll
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\Banque.pdb
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\Banque.genruntimeconfig.cache
+C:\Users\brani\Documents\ESI\Pattern\Banque\obj\Debug\net9.0\ref\Banque.dll
