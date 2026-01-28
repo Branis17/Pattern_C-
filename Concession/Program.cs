@@ -14,14 +14,14 @@ class Program
 
  static void Main()
     {
-        // Client au comptant
+        
         Client clientComptant = new ClientComptant();
-        Commande commande1 = clientComptant.CreeCommande(15000);
+        Commande commande1 = clientComptant.CreeCommande(1500);
         commande1.Executer();
 
-        // Client à crédit
+       
         Client clientCredit = new ClientCredit();
-        Commande commande2 = clientCredit.CreeCommande(22000);
+        Commande commande2 = clientCredit.CreeCommande(0);
         commande2.Executer();
     }
 
