@@ -1,0 +1,15 @@
+C:\Users\brani\Documents\ESI\Pattern\Développe\bin\Debug\net9.0\Développe.exe
+C:\Users\brani\Documents\ESI\Pattern\Développe\bin\Debug\net9.0\Développe.deps.json
+C:\Users\brani\Documents\ESI\Pattern\Développe\bin\Debug\net9.0\Développe.runtimeconfig.json
+C:\Users\brani\Documents\ESI\Pattern\Développe\bin\Debug\net9.0\Développe.dll
+C:\Users\brani\Documents\ESI\Pattern\Développe\bin\Debug\net9.0\Développe.pdb
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\Développe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\Développe.AssemblyInfoInputs.cache
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\Développe.AssemblyInfo.cs
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\Développe.csproj.CoreCompileInputs.cache
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\Développe.sourcelink.json
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\Développe.dll
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\refint\Développe.dll
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\Développe.pdb
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\Développe.genruntimeconfig.cache
+C:\Users\brani\Documents\ESI\Pattern\Développe\obj\Debug\net9.0\ref\Développe.dll
