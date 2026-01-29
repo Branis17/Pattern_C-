@@ -1,0 +1,15 @@
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\bin\Debug\net9.0\E-Commerce-3.exe
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\bin\Debug\net9.0\E-Commerce-3.deps.json
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\bin\Debug\net9.0\E-Commerce-3.runtimeconfig.json
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\bin\Debug\net9.0\E-Commerce-3.dll
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\bin\Debug\net9.0\E-Commerce-3.pdb
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\E-Commerce-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\E-Commerce-3.AssemblyInfoInputs.cache
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\E-Commerce-3.AssemblyInfo.cs
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\E-Commerce-3.csproj.CoreCompileInputs.cache
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\E-Commerce-3.sourcelink.json
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\E-Commerce-3.dll
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\refint\E-Commerce-3.dll
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\E-Commerce-3.pdb
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\E-Commerce-3.genruntimeconfig.cache
+C:\Users\brani\Documents\ESI\Pattern\E-Commerce-3\obj\Debug\net9.0\ref\E-Commerce-3.dll
