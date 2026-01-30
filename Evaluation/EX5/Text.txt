@@ -1,0 +1,8 @@
+5.1)Le diagramme correspond au pattern Composite
+5.2)L’interface Component définit les opérations communes, la classe Leaf représente un élément 
+simple sans enfant, et la classe Composite représente un élément pouvant contenir d’autres composants
+5.3)Un exemple classique du pattern Composite est le système de fichiers, où un dossier est un composite et 
+un fichier est un élément simple
+5.4)Une premire solution consiste à lever une exception lorsque les méthodes Add ou Remove sont appelées
+sur un élément Leaf tandis qu’une seconde solution consiste à séparer les interfaces 
+pour distinguer les éléments simples des composites au prix d’une UML plus complexe
